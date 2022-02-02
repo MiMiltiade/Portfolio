@@ -1,4 +1,4 @@
 # Portfolio
-Le code source de mon portfolio
+My portfolio's source code. It was inspired by a terminal.
 
-It's Porfolio inspired by a terminal 
+
